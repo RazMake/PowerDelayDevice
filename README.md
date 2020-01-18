@@ -26,6 +26,7 @@ So my plan was to have a a device that simply waits a specified amount of time b
 # Code
 The code is trivial. Full code [here](https://github.com/RazMake/PowerDelayDevice/blob/master/PowerDelay.ino?raw=true).
 The ideea is to use the PB4 pin (pin 3) on the ATTiny to trigger the relay, but delay a specific amount of miliseconds before doing that.
+Note: _The delay currently set in the code is ~1 min and 32 sec._
 
 # Case
 In order to protect agains accientaly touching the high voltage contacts, I have also created and 3D printed a [case](https://github.com/RazMake/PowerDelayDevice/blob/master/3D%20Models/DelayPower%20Module%20Case.f3d).
