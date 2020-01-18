@@ -34,6 +34,7 @@ In order to protect agains accientaly touching the high voltage contacts, I have
 * _The 3mf should be opened by your slicer application and it has the settings for printing with ABS._
 
 # Endresult
+All that's left to do is to plug the devices that should receiv power with a delay into the "nornally OFF" outlets.
 ![Device](https://github.com/RazMake/PowerDelayDevice/blob/master/Photos/image007.jpg?raw=true)
 
 
