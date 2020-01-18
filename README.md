@@ -30,6 +30,8 @@ Note: _The delay currently set in the code is ~1 min and 32 sec._
 
 # Case
 In order to protect agains accientaly touching the high voltage contacts, I have also created and 3D printed a [case](https://github.com/RazMake/PowerDelayDevice/blob/master/3D%20Models/DelayPower%20Module%20Case.f3d).
+* _The *.f3d file can be opened with Fusion 360, if you want to change the model._
+* _The 3mf should be opened by your slicer application and it has the settings for printing with ABS._
 
 # Endresult
 ![Device](https://github.com/RazMake/PowerDelayDevice/blob/master/Photos/image007.jpg?raw=true)
