@@ -34,7 +34,8 @@ In order to protect agains accientaly touching the high voltage contacts, I have
 * _The 3mf should be opened by your slicer application and it has the settings for printing with ABS._
 
 # Endresult
-All that's left to do is to plug the devices that should receiv power with a delay into the "nornally OFF" outlets.
+All that's left to do is to plug the devices that should receiv power with a delay into the "nornally OFF" outlets.  
+**Note:**_The Attiny chip is accessible so if I need to program a differnt timeout I can just take it out, reprogram it and then put it back._
 ![Device](https://github.com/RazMake/PowerDelayDevice/blob/master/Photos/image007.jpg?raw=true)
 
 
