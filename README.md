@@ -21,7 +21,7 @@ So my plan was to have a a device that simply waits a specified amount of time b
 * Some Wires - I had some in my parts drawer, so I don't know where to buy this. In general I tend to keep all kinds of wires and cables that I come across so I very rarely have to buy wire.
 
 # Electrical circuit
-![Electrical Diagram](https://github.com/RazMake/PowerDelayDevice/blob/master/Circuit.png?raw=true "Power Delay Electrical Diagram")
+![Electrical Diagram](https://github.com/RazMake/PowerDelayDevice/blob/master/Circuit.png?raw=true)
 
 # Code
 The code is trivial. Full code [here](https://github.com/RazMake/PowerDelayDevice/blob/master/PowerDelay.ino?raw=true).
@@ -31,7 +31,7 @@ The ideea is to use the PB4 pin (pin 3) on the ATTiny to trigger the relay, but 
 In order to protect agains accientaly touching the high voltage contacts, I have also created and 3D printed a [case](https://github.com/RazMake/PowerDelayDevice/blob/master/3D%20Models/DelayPower%20Module%20Case.f3d).
 
 # Endresult
-![Device](https://github.com/RazMake/PowerDelayDevice/blob/master/Photos/image007.jpg?raw=true =500x400)
+![Device](https://github.com/RazMake/PowerDelayDevice/blob/master/Photos/image007.jpg?raw=true)
 
 
 ## _Disclaimer_
