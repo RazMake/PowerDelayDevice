@@ -28,7 +28,7 @@ The code is trivial. Full code [here](https://github.com/RazMake/PowerDelayDevic
 The ideea is to use the PB4 pin (pin 3) on the ATTiny to trigger the relay, but delay a specific amount of miliseconds before doing that.
 
 # Case
-In order to protect agains accientaly touching the high voltage contacts, I have also created and 3D printed a case.
+In order to protect agains accientaly touching the high voltage contacts, I have also created and 3D printed a [case](https://github.com/RazMake/PowerDelayDevice/blob/master/3D%20Models/DelayPower%20Module%20Case.f3d).
 
 # Endresult
 ![Device](https://raw.githubusercontent.com/RazMake/PowerDelayDevice/master/Photos/image007.jpg =500x400)
