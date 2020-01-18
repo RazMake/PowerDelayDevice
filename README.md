@@ -20,19 +20,12 @@ So my plan was to have a a device that simply waits a specified amount of time b
   Another great idea from a friend would be to use something like [IRM-05-5](https://www.mouser.com/productdetail/mean-well/irm-05-5?qs=WkdRfq4wf1OdYoHS8Am9VA%3D%3D). Which is smaller and simple to use (it just has 4 pins AC IN and 5V DC out).
 * Some Wires - I had some in my parts drawer, so I don't know where to buy this. In general I tend to keep all kinds of wires and cables that I come across so I very rarely have to buy wire.
 
-# Electrical circuit
-![Electrical Diagram](https://github.com/RazMake/PowerDelayDevice/blob/master/Circuit.png?raw=true)
-
 # Code
-The code is trivial. Full code [here](https://github.com/RazMake/PowerDelayDevice/blob/master/PowerDelay.ino?raw=true).
+The code is trivial.
 The ideea is to use the PB4 pin (pin 3) on the ATTiny to trigger the relay, but delay a specific amount of miliseconds before doing that.
 
 # Case
-In order to protect agains accientaly touching the high voltage contacts, I have also created and 3D printed a [case](https://github.com/RazMake/PowerDelayDevice/blob/master/3D%20Models/DelayPower%20Module%20Case.f3d).
-
-# Endresult
-![Device](https://github.com/RazMake/PowerDelayDevice/blob/master/Photos/image007.jpg?raw=true)
-
+In order to protect agains accientaly touching the high voltage contacts, I have also created and 3D printed a case.
 
 ## _Disclaimer_
 _I'm not claiming this is the best implementation for what I was trying to obtain, I am not even claiming that the solution itself is the best given the problem.  
